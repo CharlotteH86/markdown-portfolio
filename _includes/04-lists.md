@@ -1,3 +1,3 @@
-* List item 1
-* List item 2
-* Lits item 3
+* *List item 1*
+* _List item 2_
+* __*Lits item 3*__
